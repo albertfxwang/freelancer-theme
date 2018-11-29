@@ -1,5 +1,5 @@
 ---
-title: Counter-jet emission and relativistic hydro-dynamics of gamma-ray burst afterglows
+title: Improving source plane morphological reconstruction of multiply-imaged galaxies
 layout: default
 modal-id: 4
 date: 2014-01-01
