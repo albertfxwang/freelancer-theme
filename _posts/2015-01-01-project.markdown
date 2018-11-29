@@ -1,0 +1,12 @@
+---
+title: Reconstructing mass distribution of galaxy clusters using strong and weak lensing signals
+layout: default
+modal-id: 3
+date: 2015-01-01
+img: xinweb.003.png
+alt: image-alt
+project-date: 2015
+client: <a href='http://arxiv.org/abs/1504.02405'>arXiv:1504.02405</a>
+category: Strong Gravitational Lensing, Weak Gravitational Lensing, Galaxy Clusters
+description: Using both parametric and non-parametric methods, I reconstructed the total mass distribution in galaxy clusters (Abell 2744 on the left using non-parametric method and RXJ 1347 on the right using Lenstool, both color-coded in the absolute value of magnification) from the strong and weak lensing signals. In particular, we noticed a newly rising dilemma in the cluster lens modeling exercise that after we have entered a data-rich phase, the accuracy of this exercise is no longer limited by statistical uncertainties but rather systematic ones.  We thus focused on improving fidelity of cluster mass modeling via systematically vetting multiple image candidates to screen off false positives.  This idea is highly recognized by the cluster lensing community so that my vetting process has become a standard routine.
+---

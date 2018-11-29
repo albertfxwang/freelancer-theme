@@ -1,0 +1,12 @@
+---
+title: Counter-jet emission and relativistic hydro-dynamics of gamma-ray burst afterglows
+layout: default
+modal-id: 4
+date: 2014-01-01
+img: xinweb.004.png
+alt: image-alt
+project-date: 2014-2015
+client: <a href='http://arxiv.org/abs/1410.0967'>arXiv:1410.0967</a>
+category: Strong Gravitational Lensing, Source Plane Reconstruction
+description: I developed a source plane reconstruction software which can correct the macroscopic model of cluster lensing potential for residual local perturbations (possibly by dark matter substructures) in the regions around multiple images. As a result, after the correction given by my software, multiple images of one source can be stacked and combined, significantly boosting signal-to-noise ratios of spatially resolved emission line detections.
+---

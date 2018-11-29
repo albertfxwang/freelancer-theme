@@ -1,0 +1,12 @@
+---
+title: Counter-jet emission and relativistic hydro-dynamics of gamma-ray burst afterglows
+layout: default
+modal-id: 6
+date: 2009-01-01
+img: xinweb.006.png
+alt: image-alt
+project-date: 2009-2010
+client: <a href='http://arxiv.org/abs/0903.3119'>arXiv:0903.3119</a>, <a href='http://arxiv.org/abs/1012.0521'>arXiv:1012.0521</a>
+category: High Energy Astrophysics, Gamma-Ray Bursts
+description: We study the dynamical evolution of double-sided jets launched by the central engine of gamma-ray bursts and calculated the afterglow emission from both jet components. For the first time, we present a detailed numerical study on the afterglow contributed from the jet component receding from the observer, with the effects of synchrotron self-absorption and equal arrival time surface taken into account. It is found that the receding jet emission (dashed curves) is generally very weak and only manifests as a plateau at best in the late time total afterglow light curves at various observing frequencies, i.e. 10<sup>9</sup> (red), 10<sup>10</sup> (orange), 10<sup>11</sup> (yellow), 10<sup>12</sup> (olive), 10<sup>13</sup> (cyan), 10<sup>14</sup> (blue), 10<sup>15</sup> (purple), 10<sup>16</sup> (pink), 10<sup>17</sup> (black) Hz. However the emission from the receding jet can be significantly enhanced and possibly detectable, if the circum-burst medium density is high.
+---

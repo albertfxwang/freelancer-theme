@@ -1,0 +1,12 @@
+---
+title: Measuring neutrino mass/species and dark energy using cosmological probes
+layout: default
+modal-id: 5
+date: 2012-01-01
+img: xinweb.005.png
+alt: image-alt
+project-date: 2012
+client: <a href='http://arxiv.org/abs/1210.2136'>arXiv:1210.2136</a>
+category: Precision Cosmology, Neutrino Properties, Weak Gravitational Lensing
+description: Using various cosmological observations, i.e., cosmic microwave background, weak gravitational lensing (CFHTLS cosmic shears), baryonic acoustic oscillations, observational Hubble parameter data, type Ia supernovae, we impose constraints on the sum of neutrino masses, the effective number of neutrino species and dark energy equation of state. On the right, 2D confidence regions are shown for different data combinations, i.e., CMB (blue), CMB+WL (red), CMB+BAO+SNIa (green), CMB+BAO+OHD (magenta), ALL (cyan). We find that a tight upper limit on the sum of neutrino masses can be extracted if the effective number of neutrino species and dark energy equation of state are fixed, however it will be severely weakened if both are allowed to vary. This result raises questions on the robustness of previous strict upper bounds on neutrino masses reported in the literature. The different constraining abilities of current weak lensing, observational Hubble parameter data and type Ia supernovae samples are assessed and compared.
+---

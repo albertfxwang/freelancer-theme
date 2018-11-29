@@ -37,6 +37,8 @@ h6 {
 }
 
 hr.star-light,
+hr.star-white,
+hr.star-secondary,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -48,6 +50,8 @@ hr.star-primary {
 }
 
 hr.star-light:after,
+hr.star-white:after,
+hr.star-secondary:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -68,12 +72,30 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 hr.star-primary:after {
+    color: #{{ site.color.primary }};
+    background-color: #fff;
+}
+
+hr.star-secondary {
+    border-color: #{{ site.color.secondary }};
+}
+
+hr.star-secondary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
+}
+
+hr.star-white {
+    border-color: #fff;
+}
+
+hr.star-white:after {
+    color: #fff;
+    background-color: #{{ site.color.secondary-dark }};
 }
 
 .img-centered {
@@ -185,6 +207,16 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.reverse {
+    color: #{{ site.color.primary }};
+    background: #fff;
+}
+
+section.secondary-dark {
+    color: #fff;
+    background: #{{ site.color.secondary-dark }};
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -268,6 +300,24 @@ section.success {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
+}
+
+.btn-reverse{
+    margin-top: 15px;
+    border: solid 3px #{{ site.color.primary }};
+    font-size: 20px;
+    color: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
+    transition: all .3s ease-in-out;
+}
+
+.btn-reverse:hover,
+.btn-reverse:focus,
+.btn-reverse:active,
+.btn-reverse.active {
+    border: solid 2px #{{ site.color.promary }};
+    color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 .floating-label-form-group {

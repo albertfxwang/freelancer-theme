@@ -1,0 +1,12 @@
+---
+title: Using resolved chemical properties to probe gas flows at high redshifts
+layout: default
+modal-id: 2
+date: 2017-01-01
+img: xinweb.002.png
+alt: image-alt
+project-date: 2016-2018
+client: <a href='http://arxiv.org/abs/1610.07558'>arXiv:1610.07558</a>, <a href='https://arxiv.org/abs/1808.08800'>arXiv:1808.08800</a>
+category: Dwarf Galaxies, Spatially Resolved Spectroscopy, Baryon Cycle
+description: A sub-L<sub>&#9733;</sub> galaxy (top; M<sub>&#9733;</sub>~2.3&times;10<sup>9</sup>M<sub>&#9737;</sub>) at z~1.3 showing low-metallicity gas inflow signatures. A dwarf galaxy (bottom; M<sub>&#9733;</sub>~10<sup>9</sup>M<sub>&#9737;</sub>) at z~2 showing strong evidence of metal-enriched outflows triggered by galactic winds.  In both rows from left, I show the color-composite, stellar mass, Balmer line, metallicity maps of these two galaxies with simulated (top; Ceverino et al. 2016) or empirically modeled interpretations (bottom; red arrows denoting net outflow directions) on the far right. I developed effective techniques to extract 2D maps of nebular emission lines flux from Hubble Space Telescope (HST) near-infrared slitless spectroscopy, and metallicity maps using Bayesian inference.  With HST's diffraction limit and gravitational lensing magnification, these maps are spatially sampled at sub-kiloparsec resolution critical to accurately map out the chemical properties of dwarf galaxies and thus probe gas movements within them.
+---
