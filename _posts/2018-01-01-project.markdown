@@ -5,7 +5,7 @@ modal-id: 1
 date: 2018-01-01
 img: xinweb.001.png
 alt: image-alt
-project-date: 2017-2018
+project-date: 2017-2019
 client: <a href='http://arxiv.org/abs/1610.07558'>arXiv:1610.07558</a>, Wang et al. in prep.
 category: Dwarf Galaxies, Spatially Resolved Spectroscopy, Baryon Cycle, Galaxy Chemical Abundances
 description: To explore the chemo-structural properties of galaxies at cosmic noon (i.e. z~2), I developed a highly effective method for sub-kiloparsec scale spatially resolved spectroscopy of strongly lensed galaxies using space-based wide-field slitless grism data. Applying this method to the deep Hubble Space Telescope near-infrared grism data, I obtained precise gas-phase metallicity maps of 81 star-forming galaxies at z~1.2-2.3, over half of which reside in the dwarf mass regime. My work presents the first statistically representative sample of high-z dwarf galaxies with their metallicity spatial distribution measured with sufficient resolution. These metallicity maps reveal a variety of baryonic physics, such as efficient radial mixing from tidal torques, rapid accretion of low-metallicity gas, and various feedback processes which can significantly influence the chemo-structural properties of dwarf galaxies. 10% of the metallicity gradients measured in our sample are inverted, which are hard to explain by currently existing hydrodynamical simulations and analytical chemical evolution models.
